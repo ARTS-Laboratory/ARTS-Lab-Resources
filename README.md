@@ -7,8 +7,8 @@ General resources for the Autonomous Real-Time Systems Laboratory (ARTS-Lab); an
 <p align="center">
 </p>
 
-A current version of the ARTS-Lab handbook can be found [here](https://www.dropbox.com/scl/fi/mem5yz9diqc0gbztw6ui0/arts_lab_graduate_handbook.pdf?rlkey=62yae8kwhcqnc9mxl6dg0l0de&dl=0)
-
+## [ARTS-Lab handbook](https://www.dropbox.com/scl/fi/mem5yz9diqc0gbztw6ui0/arts_lab_graduate_handbook.pdf?rlkey=62yae8kwhcqnc9mxl6dg0l0de&dl=0)
+The current version of the ARTS-Lab handbook can be found [here](https://www.dropbox.com/scl/fi/mem5yz9diqc0gbztw6ui0/arts_lab_graduate_handbook.pdf?rlkey=62yae8kwhcqnc9mxl6dg0l0de&dl=0)
 
 ## [Ph.D. Proposal Template](Template_Ph.D._Proposal)
 Template and supporting files for preparing an ARTS-Lab Ph.D. proposal.
