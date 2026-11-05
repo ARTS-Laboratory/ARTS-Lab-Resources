@@ -8,3 +8,15 @@
 *.toc
 *.lot
 
+# Windows/Office temporary files starting with a tilde
+~$*
+
+# macOS folder metadata files
+.DS_Store
+.ds_store
+
+# Common macOS metadata directories (optional but recommended)
+._*
+.Spotlight-V100
+.Trashes
+
